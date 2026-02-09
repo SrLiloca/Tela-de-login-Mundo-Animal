@@ -1,10 +1,10 @@
-# 🐾 PetConnect — Sistema de Login
+# 🐾 Mundo Animal — Sistema de Login
 
-Uma rede social fictícia para pets, desenvolvida como projeto de **Interação Humano-Computador (IHC)**, com foco em usabilidade e experiência do usuário.
+Um sistema simples e funcional de login desenvolvido em TypeScript, inserido em um contexto fictício de petshop/rede social para pets, criado como projeto acadêmico da disciplina de Interação Humano-Computador (IHC), com foco em usabilidade e experiência do usuário.
 
 ## 📋 Descrição do Projeto
 
-PetConnect é uma rede social simulada para pets que implementa um sistema completo de login funcional sem necessidade de banco de dados ou conexão com a internet. Toda a validação e autenticação acontece localmente no navegador.
+O Mundo Animal simula um sistema completo de autenticação de usuários funcionando totalmente de forma local, sem utilização de banco de dados ou conexão com a internet. Todas as validações, cadastros, autenticações e feedbacks acontecem diretamente no navegador, atendendo às restrições propostas. O projeto disponibiliza interfaces de login, cadastro e recuperação de senha, projetadas para serem fáceis de lembrar, fáceis de entender, eficientes e seguras sob a percepção do usuário, além de oferecer uma experiência visual agradável, divertida e motivadora.
 
 ### Funcionalidades
 - **Login** com validação local (usuários pré-cadastrados: `teste@1234.com` / `1234`)
